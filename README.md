@@ -21,4 +21,14 @@ Next.js, Auth.js (Google OAuth), Supabase (Database), Gmail API
 3. Write template
 4. Send emails
 
+## Limitations
+* Application is in testing mode/unverified (Google Cloud), so only authorized test users can access it
+* Single template only (for now)
+
+## Future Improvements
+* Multiple templates
+* Email sending limits
+* Attachments support
+* Improved UI/UX feedback
+
 ---
